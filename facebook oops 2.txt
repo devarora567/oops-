@@ -1,0 +1,13 @@
+facebook 
+
+A user can have a number of posts.
+A post may or may not have an image or an url associated with it.
+There are a number of comments on a post.
+And a comment may follow other comments.
+User are also related with one another as friends.
+
+
+oops concept used is INHERITANCE AND POLYMORPHISM 
+
+hard copy has been submitted to Mr Priyank gupta sir 
+
