@@ -1,0 +1,16 @@
+employee role task management 
+
+There are several employee type like Developer, QA etc.
+Every employee is associated with a project.
+Every project has a start date and an end date.
+Employee worked on a project has a record of time period, he/she worked on that project.
+Project also stores its budget, but only employee with role admin is able to access it.
+There are also one more type of user i.e. guest.
+User of this type should not be able to access all info. He/she can only see the projects and only duration of that project.
+Specify the oops concept used and where?
+
+EMPLOYEE AND PROJECT ARE IN ASSOCIATION WITH EACH OTHER 
+
+OOPS CONCEPT USED IS INHERITANCE 
+
+HARD COPY HAS BEEN SUBMITTED TO MR PRIYANK GUPTA SIR SHOWING VARIOUS RELATIONSHIPS BETWEEN CLASSES 
