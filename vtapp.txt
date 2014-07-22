@@ -1,0 +1,15 @@
+Vtapp
+
+Create a class diagram of Vtapp. Following points should be done to fulfil the requirement :-
+
+There are some tracks.    
+Each track have some tasks associated with it.  //   ASSOCIATION BETWEEN TRACKS AND TASKS
+
+
+
+Some tasks are special and termed as exercises.         // INHERITANCE 
+
+Exercises have submitted urls and comments associated with it.
+
+Exercises are also associated with users as runner and reviewer.
+Runner and reviewer should be same class User.       //  AGGREGATION BETWEEN USER AND TASK 
